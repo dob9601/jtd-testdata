@@ -1,0 +1,6 @@
+# This serves as an example config, nothing much else to say :)
+---
+some_setting: true,
+some_other_setting: false,
+outer:
+  inner: ""

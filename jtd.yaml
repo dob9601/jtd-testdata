@@ -1,0 +1,3 @@
+example_config:
+  file: config.yaml
+  target: /tmp/config.yaml
